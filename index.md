@@ -6,7 +6,7 @@ layout: default
 ---
 
 <div id="mc_embed_signup" class="wb-frmvld mrgn-tp-lg">
-  <form class="form" action="https://adobecqms.us14.list-manage.com/subscribe/post?u=c2b2b0cf2f8d720b883e79a1d&amp;id=5390c56769" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+  <form class="form" action="https://canada.us12.list-manage.com/subscribe/post?u=b8e295e593a4672abbd08eefd&amp;id=26d46ff52a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
     <div class="row">
       <div id="mc_embed_signup_scroll" class="col-md-7">
         <div class="form-group">
@@ -39,7 +39,7 @@ layout: default
         
         <div class="hidden-xs hidden-sm hidden-md hidden-lg" aria-hidden="true">
           <label class="required" for="mailchimp">Mailchimp</label>
-          <input type="text" name="b_c2b2b0cf2f8d720b883e79a1d_5390c56769" id="mailchimp" tabindex="-1">
+          <input type="text" name="b_b8e295e593a4672abbd08eefd_26d46ff52a" id="mailchimp" tabindex="-1">
         </div>
         <div class="alert alert-warning hidden mrgn-tp-lg" id="mce-error-response-custom"> </div>
         <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-lg btn-primary">
@@ -97,18 +97,3 @@ layout: default
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 
 <script src="./alert.js"></script>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
