@@ -1,4 +1,4 @@
-// JavaScript Documenttype='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='LANG';ftypes[1]='dropdown';fnames[7]='TOUSALLEV';ftypes[7]='dropdown';fnames[2]='FETECANDAY';ftypes[2]='dropdown';fnames[3]='BALWINTER';ftypes[3]='dropdown';fnames[4]='SONLIGHT';ftypes[4]='dropdown';fnames[5]='LUMILIGHTS';ftypes[5]='dropdown';
+ type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='LANG';ftypes[1]='dropdown';fnames[7]='TOUSALLEV';ftypes[7]='dropdown';fnames[2]='FETECANDAY';ftypes[2]='dropdown';fnames[3]='BALWINTER';ftypes[3]='dropdown';fnames[4]='SONLIGHT';ftypes[4]='dropdown';fnames[5]='LUMILIGHTS';ftypes[5]='dropdown';
 }(jQuery));var $mcj = jQuery.noConflict(true);
 
 var signupTitle = "Capital Experience Events Newsletter";
